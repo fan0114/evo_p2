@@ -23,7 +23,7 @@ public class Evo_p2 {
     public static int evals;
     public static int population = 200;
     public static double offset = 3;
-    static String filename = "SR_line.txt";
+    static String filename = "SR_ellipse_noise.txt";
     static ArrayList<MyPoint> points;
     ArrayList<MyEquation> equations;
     static int initDepth = 6;
